@@ -15,7 +15,7 @@
 6. o        proportional editing
 7. alt-s    move vertical to the face; move along normal
 
-# L3
+## L3
 1. alt-z    toggle x-ray
 2. shift-d  duplicate
 3. p        separate    
@@ -23,6 +23,19 @@
 5. mod      subsurf 
 6. mod      solidify 
 7. z        wireframe mode
-8. mod      shift for small increments; 
+8. mod      shift for small increments;
             ctrl for snap to increments
+
+## L4
+1. snap     snapping tool; 
+            snap to face, project individual elements;
+            snap to increments
+2. use ref
+3. mod      apply mod; usually best to put on top
+            subsurf, the viewport level will be applied
+4. h/alt-h  hide/unhide
+5. e        extrude, add more mesh
+6. alt-left click to select edge loop 
+7. mod      shrink warp modifier
+
 playlist:
