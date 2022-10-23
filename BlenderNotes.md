@@ -38,4 +38,16 @@
 6. alt-left click to select edge loop 
 7. mod      shrink warp modifier
 
+## L5
+1. mod      apply mods
+2. layout   sculpting layout
+3. ctrl-tab switch mode
+4. x        draw; hold ctrl to dig
+5. g        grab
+6. f        change radius
+7. shift-f  change the strength 
+8. shift-s  smooth; hold shift to temp activate smooth
+9. i        inflate; for sculpting characters
+
+
 playlist:
