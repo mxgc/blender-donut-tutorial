@@ -49,5 +49,13 @@
 8. shift-s  smooth; hold shift to temp activate smooth
 9. i        inflate; for sculpting characters
 
+## L6
+1. camera   View properties: Lock Camera to View
+2. alt-g    snap selected obj to the center of viewport
+3. material BSDF
+            base color
+            roughness
+            subsurface scattering
+4. render   denoise; viewport start at sample 50
 
 playlist:
