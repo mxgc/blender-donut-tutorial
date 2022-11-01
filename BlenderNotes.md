@@ -67,4 +67,9 @@
 6. add      texture coordinate
 7. node     bump (normals); change distance
 
+## L8
+1. mode     texture paint; x for selecting primary/secondary color
+2. node     image texture
+3. node     mix RGB
+
 playlist:
