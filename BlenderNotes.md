@@ -72,4 +72,16 @@
 2. node     image texture
 3. node     mix RGB
 
+## L9
+1. geo-node a modifier 
+2. geo-node distribute points on faces; poisson disk
+3. geo-node join geometry
+4. geo-node instance on points
+5. apply    scale; rotation
+6. geo-node rotate euler; local
+7. tau      2 pi
+8. mode     weight paint; ctrl-tab
+9. geo-node math
+
+
 playlist:
