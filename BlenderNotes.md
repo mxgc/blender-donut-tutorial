@@ -58,4 +58,13 @@
             subsurface scattering
 4. render   denoise; viewport start at sample 50
 
+## L7
+1. layout   shading; node editor; left to right
+2. add      texture -> noise texture
+3. ctrl-rb  sever connection
+4. add      converter -> colorramp
+5. addon    node wrangler to preview node ctrl-shift-left
+6. add      texture coordinate
+7. node     bump (normals); change distance
+
 playlist:
