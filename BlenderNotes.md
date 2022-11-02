@@ -65,12 +65,12 @@
 4. add      converter -> colorramp
 5. addon    node wrangler to preview node ctrl-shift-left
 6. add      texture coordinate
-7. node     bump (normals); change distance
+7. shading  bump (normals); change distance
 
 ## L8
 1. mode     texture paint; x for selecting primary/secondary color
-2. node     image texture
-3. node     mix RGB
+2. shading  image texture
+3. shading  mix RGB
 
 ## L9
 1. geo-node a modifier 
@@ -82,6 +82,14 @@
 7. tau      2 pi
 8. mode     weight paint; ctrl-tab
 9. geo-node math
+
+## L10
+1. ctrl-r   loop cut in edit mode
+2. center   point representing center of the mesh
+3. geo-node collection info node
+4. ctrl-l   link; link materials
+5. shading  object info node; random 
+6. shading  color ramp
 
 
 playlist:
