@@ -91,5 +91,14 @@
 5. shading  object info node; random 
 6. shading  color ramp
 
+## L11
+1. ctrl-p   parenting; select child, then shift-select parent, then ctrl-p to make the child connect to parent
+2. output   change resolution and format
+3. camera   change focal length; high focal length leads to depth compression 
+4. camera   composition guide; center
+5. i        insert keyframe
+6. playback frame dropping
+7. mode     animation
+8. editor   graph editor; ctrl-mid-click to zoom; home btn to show everything; ctrl-right-click to add new keyframe; adjust frame timing with bazier curve handles
 
 playlist:
