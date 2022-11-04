@@ -1,7 +1,7 @@
 ### Blender Tutorial
 
 ## L1
-1. grab, rotate, scale; mid-btn snap to three major axes
+1. g,r,s    grab, rotate, scale; mid-btn snap to three major axes
 2. mid-btn  orbiting; pan with shift-mid-btn
 3. `key     show different views; view-selected
 4. shift-d  duplicate
@@ -100,5 +100,16 @@
 6. playback frame dropping
 7. mode     animation
 8. editor   graph editor; ctrl-mid-click to zoom; home btn to show everything; ctrl-right-click to add new keyframe; adjust frame timing with bazier curve handles
+
+## L12
+1. geo-node point; distribute points on faces
+2. geo-node geometry; set position node
+3. geo-node random value
+4. i        insert keyframe when hovering over any fileds in blender, for example, Offset in Set Position node 
+5. i        works on ANY field; change color with animation, etc
+6. geo-node value node; #frame for frame info; field turns purple indicating there's a driver there
+7. geo-node combine xyz; separating out different components
+8. ctrl-j   comment with a node selected; adding a frame
+9. geo-node instance on points
 
 playlist:
