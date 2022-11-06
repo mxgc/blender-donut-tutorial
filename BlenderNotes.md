@@ -112,4 +112,17 @@
 8. ctrl-j   comment with a node selected; adding a frame
 9. geo-node instance on points
 
+## L13 lighting
+1. light    primary purpose of lighting is to reveal form; shadow is your friend
+2. position top left, top right
+3. light    radius down -> sharper shadow
+4. light    inverse square law
+5. light    fill light to bring out more detail from opposite direction; less power, softer
+6. light    world light, env light, all direction, can be set to zero
+7. render   color management; look: high or medium high contrast
+8. color    spyder x, color accurarcy and luminance
+9. reder    color management; view transform: false color; whilte means lost information
+10. light   rim light, used to separate the obj from background
+11. light   three point lighting: key, fill and rim
+
 playlist:
