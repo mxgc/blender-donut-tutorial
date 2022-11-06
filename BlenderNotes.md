@@ -137,4 +137,13 @@
 8. node     color balance node; use Offset/Power/Slope
 9. node     lens distortion; dispersion: chronamtic aberration; distort: lens barrel effect
 
+## L15 render settings
+1. render   sample count; get the least amount of noise in the least amount of time
+2. render   denoiser; use optix for viewport; use openimagedenoise for final render
+3. render   subsurface scattering is VERY costly
+4. render   motion blur checkbox
+5. camera   depth of field
+6. render   performance, persistent data
+7. render   light paths; clamping to 0
+
 playlist:
