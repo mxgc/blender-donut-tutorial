@@ -125,4 +125,16 @@
 10. light   rim light, used to separate the obj from background
 11. light   three point lighting: key, fill and rim
 
+## L14 compositing
+1. post     compositing, layering, post processing
+2. node     ctrl-shift-click on any node; viewer node; turn off backdrop 
+3. render   film: check transparent to remove the black background
+4. node     RGB color node; alpha over; gradient
+5. node     matte
+5. node     mix node
+6. glare    blur; render pass - glossy direct
+7. property layer property; passes; glossy direct, etc
+8. node     color balance node; use Offset/Power/Slope
+9. node     lens distortion; dispersion: chronamtic aberration; distort: lens barrel effect
+
 playlist:
