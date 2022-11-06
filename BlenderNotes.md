@@ -142,8 +142,20 @@
 2. render   denoiser; use optix for viewport; use openimagedenoise for final render
 3. render   subsurface scattering is VERY costly
 4. render   motion blur checkbox
-5. camera   depth of field
+5. camera   depth of field; change F stop to ~60 since camera is so close to the object
 6. render   performance, persistent data
 7. render   light paths; clamping to 0
 
-playlist:
+## L16 finale
+1. render   render into individual OpenEXR (prefered, half color depth is fine) or TIFF, then compile that into video
+2. color    three colors or less?
+3. output   properties; output
+4. render   render tab (top), render animation
+5. openexr  color space is not embeded
+6. video    video sequence editor
+7. video    add, image sequence
+8. video    render, color management; filmic, high contrast, exposure (1.0, same as previous setting)
+9. video    render tab, render animation
+
+4 week curriculum 
+https://www.blenderguru.com/podcasts/episode-4
