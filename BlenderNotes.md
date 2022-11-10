@@ -1,4 +1,4 @@
-### Blender Tutorial
+# Blender Tutorial
 
 ## L1
 1. g,r,s    grab, rotate, scale; mid-btn snap to three major axes
@@ -157,5 +157,27 @@
 8. video    render, color management; filmic, high contrast, exposure (1.0, same as previous setting)
 9. video    render tab, render animation
 
-4 week curriculum 
+# 4 week curriculum 
 https://www.blenderguru.com/podcasts/episode-4
+https://www.youtube.com/watch?v=nqW01JzVQFQ
+
+## week 1
+1. complete: blender `beginning donut tutorial`
+2. homework: create something similar by yourself (eg. cookie or a cupcake)
+
+## week 2
+1. lighting: watch `beginners guide to lighting`; practice: create 5 lighting variations for your donut render (trying many ideas)
+2. photorealism: watch `how to make photorealistic materials in blender`, `principles bsdf in blender`
+3. texturing: complete `the anvil tutorial`; homework: make something related an axe, a weapon etc. (something small and achievable within 2-3 days, replicate the photo 1:1)
+4. composition: watch `understanding composition`; homework: use your lighting and composition knowledge to create 5 variations of your anvil (aspect ratios, etc)
+
+## week 3
+1. solo project: create something entirely new of your own choosing that's achievable within 2 days. (eg, axe, hammer, latern etc); replicate a photo 1 to 1 is very most important (comparision)
+2. environment creation: watch: `render optimizations`; watch: `introduction to microdisplacements`; watch: `how to tile a texture properly`; watch: `importing FBX models into blender` (how to use photo scans)
+3. solo project: create an environment of your own choosing (desert is easiest)
+
+## week 4
+1. research: visit artstation and explore the highest performing environement entries 
+2. technical: watch: `how to import Mixamo Characters into Blender`; homework: add the acharacter to your enviornment
+3. aesthetics: watch: `understanding color`; practical: try to improve color in your environment image; watch: `compositing effects in blender`; homework: add glare, barrel distortion, a vignette and sharpening to environement, color management, color grading
+4. final project: using everything you've learned, create an environment with a character
